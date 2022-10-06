@@ -1,8 +1,10 @@
-const { add, edit, erase, clear } = require("./list_functions.js");
+const { 
+  add, edit, erase, clear 
+} = require("./list_functions.js");
 
-const text = "some test";
+const text = 'some test';
 
-describe("add functions method", () => {
+describe('add functions method', () => {
   beforeEach(() => {});
   it("should be able to add a new task to the list ", () => {
     const arr = [];
