@@ -1,6 +1,6 @@
-const { 
-  add, edit, erase, clear, 
-  }=require('./list_functions.js');
+const {
+  add, edit, erase, clear,
+  } = require('./list_functions.js');
 
 const text = 'some test';
 
@@ -26,8 +26,7 @@ describe('edit functions method', () => {
     edit(text, arr, 0);
     edit(text, arr, 1);
     edit(text, arr, 2);
-    expect(arr[0].description && arr[1].description && arr[2].description).toBe(text,
-    );
+    expect(arr[0].description && arr[1].description && arr[2].description).toBe(text,);
   });
 });
 
