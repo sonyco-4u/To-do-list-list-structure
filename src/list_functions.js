@@ -5,7 +5,7 @@ exports.add = (inputtext, taskarr) => {
     completed: false,
     index: len + 1,
   });
-}
+};
 
 exports.edit = (editinput, taskarr, id) => {
   taskarr[id].description = editinput;
