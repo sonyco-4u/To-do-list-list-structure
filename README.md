@@ -1,55 +1,45 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Project Name
 
-# To do list
+## To do List
 
-> This is a simple app that allows users to add and remove tasks.
+> This project contains the HTML, CSS and JavaScript. This is a milestone project for microverse by Ezema Anthony Sunday.
+
+# WORK FLOW SCREEN
+
+## SCREEN SHOT
+
+![screenshot](./interactive.png)
+
+## Live Demo
+
+[Click Here to view live version](https://kaylemba.github.io/Todo-list/dist/)
 
 ## Built With
 
-- HTML 5
-- CSS 3
-- JAVASCRIPT ES6
+### Major languages
 
-## Live Demo (if available)
+- HTML
+- CSS
+- Javascript
 
-[Live Demo Link]
+### Technologies used
+
+- Github
+- Git
+- Visual Studio Code
 
 ## Getting Started
 
-### VScode, GIT bash
+\*Instructions on how to access my project locally.\*\*
+To Access my project locally please follow the following instructions;
 
-### clone the repository to your local machine
+1. Enter this url: https://github.com/sonyco-4u/To-do-list-list-structure/ in your web browser.
+2. Once opened navigate to the top left level of the project a green code download button will be visible on the righthand side.
+3. Select download Zip option from drop down menu.
+4. Once the download is complete you will be able to access my project locally.
+   Here is my repository link: https://github.com/sonyco-4u/To-do-list-list-structure/
 
-To get a local copy and running follow these simple example steps.
-
-- Set up a new repository and prepare it for development using best practices (e.g. linters).
-- Create a new branch according to the GitHub flow rules.
-- Add a gitignore file.
-- Set up a linter for HTML and CSS and make sure that any files that are not relevant are ignored by git.
-- Enable GH web Page on portfolio repository to deploy it on the web
-- Add descriptive README file to your project
-
-### Install
-
-- Git (as version control)
-- sudo apt install nodejs (To install nodejs)
-- npm install --save-dev jest (To get started with Jest)
-- npm install --save-dev jest-environment-jsdom(To get started with the JSDOM test environment)
-
-### Usage
-
-### Run tests
-
-- Lighthouse
-- Webhint
-- Stylelint
-- ESLint
-- clear all Item/task (with Jest)
-- edit Item/task (with Jest)
-
-### Deployment
-
-## Authors
+## Author
 
 👤 Ezema Anthony Sunday
 
@@ -61,18 +51,13 @@ To get a local copy and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the issues page.
+
+## Acknowledgments
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+📝 License
+This project is MIT licensed.
