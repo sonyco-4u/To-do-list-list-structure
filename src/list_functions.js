@@ -1,11 +1,11 @@
-export const add = (inputtext, taskarr) => {
+export function add(inputtext, taskarr) {
   const len = taskarr.length;
   taskarr.push({
     description: inputtext,
     completed: false,
     index: len + 1,
   });
-};
+}
 
 exports.edit = (editinput, taskarr, id) => {
   taskarr[id].description = editinput;
