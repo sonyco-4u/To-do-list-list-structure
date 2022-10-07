@@ -1,4 +1,4 @@
-export function add(inputtext, taskarr) {
+exports.add = (inputtext, taskarr) => {
   const len = taskarr.length;
   taskarr.push({
     description: inputtext,
