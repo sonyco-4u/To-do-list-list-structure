@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Click Here to view live version](https://kaylemba.github.io/Todo-list/dist/)
+[Click Here to view live version](https://sonyco-4u.github.io/To-do-list-list-structure/)
 
 ## Built With
 
