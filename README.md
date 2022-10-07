@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Click Here to view live version]
+[Click Here to view live version](https://sonyco-4u.github.io/To-do-list-list-structure/)
 
 ## Built With
 
